@@ -102,3 +102,7 @@ ENV/
 
 # MacOS
 .DS_Store
+
+# direnv
+.envrc
+.direnv
